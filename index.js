@@ -1,1 +1,3 @@
-// write your code below("Hell0World!!")
+// write your code below
+
+console.log("Hello, World!");
